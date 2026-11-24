@@ -1,0 +1,6 @@
+{
+  "name": "CARESIGNAL — Smart AI Emergency Monitoring System",
+  "description": "Stage 1 browser-based healthcare monitoring dashboard for paralysis patients featuring real-time MediaPipe Pose and Hand Landmark detection over live webcam video.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
